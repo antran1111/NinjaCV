@@ -11,7 +11,11 @@ hr {
 }
 
 body {
-  background-color: #ffd5ab;
+  background-color: #899857;
+align-items: center;
+display: flex;
+flex-direction: column;
+font-size: 2em;
 }
 
 h3 {
@@ -20,8 +24,65 @@ color: red;
 
 h1 {
 color: green;
+font-size: 100%;
 }
 
 h2 {
 color: blue;
+}
+
+
+.HotWings {
+  color: black;
+  width: 890px;
+}
+
+.wing_image {
+  float: left;
+  margin-right: 30px;
+}
+.chick1 {
+  float: right;
+  margin-left: 30px;
+}
+
+
+.description {
+  text-align: justify;
+}
+
+
+
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+/* If screen size is more than 600px wide, set the font-size of <div> to 80px */
+@media screen and (min-width: 1500px) {
+  body{
+    font-size: 2em;
+    background-color: green;
+  }
 }
