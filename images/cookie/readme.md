@@ -1,4 +1,4 @@
-## It's a cookieeeeeeeeeeeee app! For eating cookies!
+## It's a cookieeeeeeeeeeeee app! For eating cookies, Selling cookies, taking selfies with your cookie!
 # Cookie Store
 This is a fun application I made to sell cookies for all the starbois out there that listen to the Weeknd.
 
