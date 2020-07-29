@@ -1,75 +1,75 @@
 [
   {
     "id": 0,
-    "title": "",
-    "subtitle": "",
+    "title": "How to read music notes on a page - Fast",
+    "subtitle": "Learn the landmarksystem with Muscians Inspired",
+    "image": "https://raw.githubusercontent.com/antran1111/NinjaCV/master/mobile_app_portfolio/piano%20sound%20app/json%20data/photos%20for%20data/01%20how%20to%20read%20notes%20fast%20-%20the%20landmark%20system.PNG",
+    "read_more_url": "https://joshuarosspiano.com/how-to-read-piano-sheet-music/",
+    "video_url": "https://www.youtube.com/watch?v=jSOU-J9KHbg"
+  },
+  {
+    "id": 1,
+    "title": "How to read piano notes and sheet music in 5 easy steps",
+    "subtitle": "Five quick steps to get you started with reading music",
     "image": "",
-    "read_more_url": "",
+    "read_more_url": "https://takelessons.com/blog/reading-piano-notes",
+    "video_url": "https://www.youtube.com/watch?v=gEI7uYOCQXo"
+  },
+  {
+    "id": 2,
+    "title": "How to read piano notes read white keys and black keys",
+    "subtitle": "Understand what the white keys and black keys do in your piano",
+    "image": "",
+    "read_more_url": "https://mypianonotes.com/read-piano-notes/",
     "video_url": ""
   },
   {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
+    "id": 3,
+    "title": "What is treble clef vs bass clef?",
+    "subtitle": "Remember the words FACE, your face! click to learn more!",
     "image": "",
-    "read_more_url": "",
-    "video_url": ""
+    "read_more_url": "https://www.piano-lessons-info.com/read-piano-notes.html",
+    "video_url": "https://www.youtube.com/watch?v=5vt7RE7t9nk"
   },
   {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
+    "id": 4,
+    "title": "Black Keys on piano",
+    "subtitle": "Learn about the black keys on the piano",
     "image": "",
-    "read_more_url": "",
-    "video_url": ""
+    "read_more_url": "https://www.pianokeyboardauthority.com/what-are-the-black-keys-on-the-piano/",
+    "video_url": "https://www.youtube.com/watch?v=xKTOKqPzLGo"
   },
   {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
+    "id": 5,
+    "title": "What are the white keys on the piano?",
+    "subtitle": "Learn what the white keys on piano sound like from piano blog",
     "image": "",
-    "read_more_url": "",
-    "video_url": ""
+    "read_more_url": "https://www.pianoblog.com/white-keys-at-the-piano-keyboard/",
+    "video_url": "https://youtu.be/dIO5lnnfyY4"
   },
   {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
+    "id": 6,
+    "title": "The bass clef - An fun mnemonic to help you remember it",
+    "subtitle": "Learn about A C E G bass cleff - All Cows eat grass",
     "image": "",
-    "read_more_url": "",
-    "video_url": ""
+    "read_more_url": "https://www.piano-lessons-info.com/read-piano-notes.html",
+    "video_url": "https://www.youtube.com/watch?v=PMk-q5LCiAs"
   },
   {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
+    "id": 7,
+    "title": "The bass clef - Did you hear about how green bus...?",
+    "subtitle": "Learn about how Green Buses Drive Fast - G B D F ",
     "image": "",
-    "read_more_url": "",
-    "video_url": ""
+    "read_more_url": "https://hiddenoctave.com/?page_id=130",
+    "video_url": "https://www.youtube.com/watch?v=PMk-q5LCiAs"
   },
   {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
+    "id": 8,
+    "title": "What are sharps and flats in a piano?",
+    "subtitle": "Understand what sharps and flats are from piano keyboard guide",
     "image": "",
-    "read_more_url": "",
-    "video_url": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
-    "image": "",
-    "read_more_url": "",
-    "video_url": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "subtitle": "",
-    "image": "",
-    "read_more_url": "",
-    "video_url": ""
+    "read_more_url": "https://www.piano-keyboard-guide.com/the-difference-between-sharp-and-flat.html",
+    "video_url": "https://www.youtube.com/watch?v=rmn1-N27DOA"
   },
   {
     "id": 0,
